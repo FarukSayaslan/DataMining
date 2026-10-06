@@ -1,0 +1,40 @@
+Normalizasyon
+Outlier Detection
+Text datanın nümerik hale getirilmesi
+Histogram (her sütun için)
+Veriseti dengesizse -> Augmentation işlemi
+
+2.)Ablation
+-> Eklenilen metodların etkisi ölçülmedi ise
+
+3.) Başarınım Grafikleri Ölçümleri
+-> Başarı (Acc)
+-> ROC
+-> AUC
+-> F1 Score
+-> Loss Grafiği (Epoch)
+
+-> K-Fold Cross-Validation (Özellikle de bu yöntem)
+
+Bu işlemler mevcut kullandığımız yöntemler dahilinde bile olsa mutlaka yapılmalı. Bunun dışında Model olarak:
+SVM
+KNN Classifier
+Random Forest
+Markov-Chain
+Nature - Inspired Optimization Algorithms
+Neural Networks (MLP Based)
+Conv. Neural Networks
+Transformers
+Generative Adversarial Networks
+Attention Based Neural Networks
+
+kullanılabilir. Biz zaten Markov-Chain ve KNN Classifier kullanmıştık. Ek olarak Random Forest veyahut SVM kullanabiliriz.
+
+Not:40-50 sn lik bir kanıt videosu eklenebilir
+Not-2: IEEE Template formatında yazılması durumunda ek puan alınabilir
+
+Times New Roman
+12 Pt
+1.5 satır aralığı
+
+Endnote ve Mendeley Referans Gösterme Uygulamaları
